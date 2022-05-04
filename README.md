@@ -10,7 +10,7 @@
 
 Установка
 ```bash
-npm i --save https://github.com/newx666/proxy-checker
+npm i --save https://github.com/dinumo12/proxy-checker
 ```
 
 Использование
